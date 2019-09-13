@@ -10,5 +10,5 @@ How to run:
  - `npm start` 
 
 Happy coding :)
-@hack4mer
+
 
